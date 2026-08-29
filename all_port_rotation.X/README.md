@@ -1,0 +1,1 @@
+This C program for PIC microcontrollers uses the MPLAB XC8 compiler to run a sequential running-light LED pattern. Configured with a 4MHz XT crystal oscillator, it continuously cycles pins high one by one across PORTA, PORTC, and PORTB with a one-second delay per step.
